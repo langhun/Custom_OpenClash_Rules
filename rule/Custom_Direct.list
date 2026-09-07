@@ -345,6 +345,8 @@ DOMAIN-SUFFIX,ahlt10010.com
 # 以下是准备向 GeoSite 上游仓库提交 PR 的国内冷门域名，收录后会注释对应内容
 # ---------------------------------------
 # 以下域名待提交 PR
+# 国网造价软件-博微软件的相关域名 / add by Telegram user: ClClzhu / Date: 2026-09-07 13:55:05
+DOMAIN-SUFFIX,boowayun.com
 # add by Rule-Bot Client / Date: 2026-09-07 09:27:43
 DOMAIN-SUFFIX,faka163.com
 # add by Rule-Bot Client / Date: 2026-09-06 20:10:06
