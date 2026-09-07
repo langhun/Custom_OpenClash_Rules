@@ -1,7 +1,7 @@
 # Generated from rule/Custom_Direct.list
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
-# TOTAL: 843
+# TOTAL: 844
 
 payload:
   - DOMAIN-KEYWORD,m-team
@@ -99,6 +99,7 @@ payload:
   - DOMAIN-SUFFIX,anycubic.com
   - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN-SUFFIX,anytocopy.com
+  - DOMAIN-SUFFIX,aoc.com
   - DOMAIN-SUFFIX,ap-leasing.com
   - DOMAIN-SUFFIX,api.myip.com
   - DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
